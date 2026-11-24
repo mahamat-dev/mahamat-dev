@@ -1,0 +1,176 @@
+{
+  "owner": "mahamat-dev",
+  "name": "Mahamat Ali Youssouf.",
+  "since": 2016,
+  "photo": "photo/avatar.jpg",
+  "roles": [
+    "Full-stack web developer",
+    "iOS apps in SwiftUI",
+    "Fast sites with Next.js",
+    "Clean, animated interfaces"
+  ],
+  "intro": [
+    "I build web and iOS products end to end: fast sites and web apps",
+    "with **Next.js** and **React**, and native iOS apps with **SwiftUI**.",
+    "I care about clean interfaces and motion that feels right."
+  ],
+  "projects": [
+    {
+      "slug": "deoli",
+      "repo": "Deoli",
+      "title": "Deoli",
+      "lang": "Swift · iOS",
+      "desc": [
+        "A focused reminder app: capture tasks fast,",
+        "sort by priority and category, stay on top."
+      ],
+      "tags": [
+        "SwiftUI",
+        "XCTest",
+        "iOS"
+      ]
+    },
+    {
+      "slug": "cgm",
+      "repo": "cgm",
+      "title": "Chad Global Market",
+      "lang": "TypeScript · Web",
+      "desc": [
+        "Website for a general goods trading company,",
+        "with product filtering and WhatsApp contact."
+      ],
+      "tags": [
+        "React 19",
+        "Vite",
+        "Tailwind v4",
+        "React Query"
+      ]
+    },
+    {
+      "slug": "madian",
+      "repo": "madian_foundation",
+      "title": "Madian Foundation",
+      "lang": "TypeScript · Web",
+      "desc": [
+        "Multilingual site for the Madian Foundation,",
+        "with smooth motion and localized content."
+      ],
+      "tags": [
+        "Next.js",
+        "next-intl",
+        "Framer Motion"
+      ]
+    },
+    {
+      "slug": "nouahlabs",
+      "repo": "Nouahlabs_landing",
+      "title": "Nouah Labs",
+      "lang": "TypeScript · Web",
+      "desc": [
+        "Landing page for Nouah Labs, built for speed",
+        "with motion-driven sections."
+      ],
+      "tags": [
+        "Next.js",
+        "Motion",
+        "Tailwind"
+      ]
+    },
+    {
+      "slug": "indie",
+      "repo": "indie-landing",
+      "title": "Indie Landing",
+      "lang": "TypeScript · Web",
+      "desc": [
+        "A lean landing page starter for indie",
+        "products, on the Next.js App Router."
+      ],
+      "tags": [
+        "Next.js",
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "slug": "pokedex",
+      "repo": "Pokedex",
+      "title": "Pokédex",
+      "lang": "TypeScript · Web",
+      "desc": [
+        "Browse and search Pokémon with a fast,",
+        "typed client for the public PokéAPI."
+      ],
+      "tags": [
+        "TypeScript",
+        "React",
+        "REST"
+      ]
+    }
+  ],
+  "stack": [
+    [
+      [
+        "TypeScript",
+        "typescript"
+      ],
+      [
+        "React",
+        "react"
+      ],
+      [
+        "Next.js",
+        "nextdotjs"
+      ],
+      [
+        "Swift",
+        "swift"
+      ],
+      [
+        "SwiftUI",
+        "swift"
+      ],
+      [
+        "React Native",
+        "react"
+      ],
+      [
+        "Expo",
+        "expo"
+      ]
+    ],
+    [
+      [
+        "Tailwind CSS",
+        "tailwindcss"
+      ],
+      [
+        "Vite",
+        "vite"
+      ],
+      [
+        "Framer Motion",
+        "framer"
+      ],
+      [
+        "React Query",
+        "reactquery"
+      ],
+      [
+        "Zustand",
+        null
+      ],
+      [
+        "next-intl",
+        null
+      ],
+      [
+        "Contentful",
+        "contentful"
+      ],
+      [
+        "Git",
+        "git"
+      ]
+    ]
+  ]
+}
